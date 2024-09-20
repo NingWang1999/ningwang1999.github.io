@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-I am currently a second-year master's student at **Beijing Forestry University**. My mentor is **Prof. Kang Feng** from BFU-Key Laboratory of Silvicultural Equipments and Ergonomics Lab. Prior to that, I was an undergraduate student majoring in Robotics Engineering at the College of Ocean Engineering, **Harbin Institute of Technology(Weihai)**.
+I am currently a second-year master's student at **Beijing Forestry University**. My mentor is **Prof. Kang Feng** from BFU-Key Laboratory of State Forestry and Grassland Administration on Forestry Equipment and Automation Lab. Prior to that, I was an undergraduate student majoring in Robotics Engineering at the College of Ocean Engineering, **Harbin Institute of Technology(Weihai)**.
 
 My main research direction is **3D reconstruction**, especially in the reconstruction of fruit trees and orchards in complex environments. I try to use Terrestrial Laser Scanning(TLS) to obtain point clouds and extract structural information of trees to achieve **automatic registration of marker-free and low-overlap point clouds**. My researchs also involves the development of automated forestry and agricultural equipment using lidar or RGB-D as sensors.
 
